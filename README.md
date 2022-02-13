@@ -13,5 +13,5 @@ dsdt貌似不能直接放入acpi（？） 既然能启动，我也就不考虑�
 2. 前后摄像头不工作
 ***
 ## 感谢：
-1. https://dortania.github.io/OpenCore-Install-Guide/ oc安装指南
-2. https://github.com/kaleavess/Miix700-OSX-Hackintosh-Clover 的修复触摸屏教程
+1. [Dortania的OC安装指南](https://dortania.github.io/OpenCore-Install-Guide/) 
+2. [kaleavess的修复触摸屏教程](https://github.com/kaleavess/Miix700-OSX-Hackintosh-Clover) 
