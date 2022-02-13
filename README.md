@@ -1,6 +1,6 @@
 # Miix700-OpenCore-Hackintosh
 应该懒得更新，随缘吧。  
-dsdt貌似不能直接放入acpi（？） 既然能启动，我也就不考虑那么多了。
+仅在macOS Big Sur 11.5.2上做过测试，旧版应该需要修改> SecureBootModel
 ## 可用：
 - wifi
 - 蓝牙
