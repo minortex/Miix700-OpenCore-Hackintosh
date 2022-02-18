@@ -1,10 +1,9 @@
 # Miix700-OpenCore-Hackintosh
-应该懒得更新，随缘吧。  
 在macOS Big Sur 11.5.2上做过测试，旧版应该需要修改SecureBootModel为Disabled，然后替换airportlwm的版本。
 ## 可用：
 - wifi
 - 蓝牙
-- 触摸屏
+- 触摸屏(直接放的dsdt，虽然不太合适但我不会改）
 - 电池
 - 亮度控制
 ## bug：
